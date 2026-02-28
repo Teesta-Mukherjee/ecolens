@@ -58,6 +58,18 @@ EcoLens bridges the gap between awareness and action.
 
 ---
 
+## 🌍 Real-World Impact Potential
+
+EcoLens can scale into:
+
+- Municipal climate engagement dashboards
+- University sustainability tracking systems
+- NGO event coordination platforms
+- Carbon impact scoring tools
+- Community-based climate participation metrics
+
+With backend integration and API connectivity, EcoLens can evolve into a full-scale climate-tech platform.
+
 ## 👥 Team
 
 EcoLens is built as a hackathon prototype under the theme:
