@@ -5,6 +5,7 @@ entrypoint = "index.html"
 
 [nix]
 channel = "stable-24_05"
+packages = ["zip"]
 
 [unitTest]
 language = "nodejs"
@@ -17,3 +18,6 @@ publicDir = "dist"
 [[ports]]
 localPort = 5173
 externalPort = 80
+
+[agent]
+expertMode = true
