@@ -1,17 +1,75 @@
-## Running React on Replit
+# 🌍 EcoLens
+### Community Climate Engagement Ecosystem
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
+EcoLens is a prototype platform designed to empower communities to take meaningful climate action through event participation and sustainable habit adoption.
 
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
+---
 
-Using the two in conjunction is one of the fastest ways to build a web app.
+## 🚀 Problem Statement
 
-### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
+Despite increasing climate awareness, individuals often struggle with:
 
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the [configuration file](#.replit). Here are the vite docs for [serving production websites](https://vitejs.dev/guide/build.html)
+- Finding verified local climate engagement events  
+- Understanding actionable sustainable habits  
+- Measuring their personal environmental impact  
 
-### Typescript
+EcoLens bridges the gap between awareness and action.
 
-Just rename any file from `.jsx` to `.tsx`. You can also try our [TypeScript Template](https://replit.com/@replit/React-TypeScript)
+---
+
+## 🌱 Core Features
+
+### 1️⃣ Public Climate Events Mode
+- Browse climate-focused events
+- Search by category or title
+- Add new community events
+- Visual impact indicators
+
+### 2️⃣ Personal Habit Mode
+- Input available time and budget
+- Receive curated sustainable habit suggestions
+- Category tags (Waste / Water / Carbon)
+- Time and cost indicators
+- Impact visualization dots
+
+### 📊 Environmental Awareness
+- AQI-style dashboard card
+- Climate fact banner
+
+---
+
+## 🏗 Tech Stack
+
+- React (Vite)
+- JavaScript
+- CSS
+- Component-based architecture
+
+---
+
+## 🔮 Future Roadmap
+
+- Backend integration (Node.js + Express)
+- User authentication
+- Real-time AQI API integration
+- Carbon footprint calculator
+- Community leaderboard
+- NGO & municipal partnerships
+
+---
+
+## 👥 Team
+
+EcoLens is built as a hackathon prototype under the theme:
+
+**Community Climate Engagement Ecosystem**
+
+---
+
+## 🛠 Installation
+
+```bash
+git clone https://github.com/Teesta-Mukherjee/ecolens.git
+cd ecolens
+npm install
+npm run dev
